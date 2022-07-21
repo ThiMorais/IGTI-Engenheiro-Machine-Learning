@@ -1,5 +1,5 @@
 # Bootcamp Online - Engenheiro de Machine Learning
-## Lista dos desafios propostos e resolvidos durante o BootCamp
+## Módulos do bootcamp
 
 #### * Módulo 01: Fundamentos de Aprendizado de Máquina
 
