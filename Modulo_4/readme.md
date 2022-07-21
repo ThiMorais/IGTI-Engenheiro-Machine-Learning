@@ -1,2 +1,2 @@
 ### Arquivos do módulo 4
- ### * neste modulo utilizamos o mesmo dataset para atividade prática e desafio.
+ ### * neste módulo, utilizamos o mesmo dataset para atividade prática e desafio.
